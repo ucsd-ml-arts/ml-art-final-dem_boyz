@@ -6,7 +6,7 @@ Your Name, yourcontact@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+Does music make the video, or is the visual medium not influenced much by musical one? In other words, can we treat music as a latent space for a music video? Our final project attempts to answer these questions by converting music videos downloaded from Youtube and taking spectrograms of 5 seconds of audio to generate video frames based on those spectrogram input images.  The final goal of this project is to create a music video with the images created.  
 
 ## Project Report
 
