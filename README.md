@@ -1,8 +1,8 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
+Mikhail Kardash, mkardash@ucsd.edu
 
-(Your teammates' contact info, if appropriate)
+Sean Liu, sel118@ucsd.edu
 
 ## Abstract Proposal
 
