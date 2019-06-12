@@ -22,7 +22,7 @@ Briefly describe the files that are included with your repository:
 
 Your code for generating your project:
 - Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+- Jupyter notebooks: Final_Project_188.ipynb
 
 ## Results
 
