@@ -6,7 +6,7 @@ Sean Liu, sel118@ucsd.edu
 
 ## Abstract Proposal
 
-Does music make the video, or is the visual medium not influenced much by musical one? In other words, can we treat music as a latent space for a music video? Our final project attempts to answer these questions by converting music videos downloaded from Youtube and taking spectrograms of 5 seconds of audio to generate video frames based on those spectrogram input images.  The final goal of this project is to create a music video with the images created.  
+Does music make the video, or is the visual medium not influenced much by a musical one? In other words, can we treat music as a latent space for a music video? Our final project attempts to answer these questions by converting music videos downloaded from Youtube and taking spectrograms of 5 seconds of audio to generate video frames based on those spectrogram input images.  The final goal of this project is to create a music video with the images created.  
 
 ## Project Report
 
