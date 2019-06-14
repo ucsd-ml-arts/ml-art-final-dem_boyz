@@ -29,7 +29,7 @@ Your code for generating your project:
   Movie.mp4, Movie200.mp4 represent produced music video results (see paper); gifs of images generated from previous all number of epochs trained are also included
 
 ## Technical Notes
-Running the Jupyter notebook should install everything necessary to run
+Running the Jupyter notebook should install everything necessary to run; some variables and video downloading software will require the user to change the youtube video link (in video_list_final.txt) or the number (0-10 for oof)
 
 ## Reference
 [1] Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros “Image-to-Image Translation with Conditional Adversarial Networks” 26 Nov 2018
