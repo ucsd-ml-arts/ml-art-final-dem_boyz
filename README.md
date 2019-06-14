@@ -16,9 +16,8 @@ File: Music_Video_Generation_using_Pix_to_Pix.pdf
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+video_list_final.txt: list of music videos trained
+pix2pix-tensorflow: folder to train network
 
 ## Code
 
@@ -27,20 +26,10 @@ Your code for generating your project:
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
-  Movie.mp4, Movie200.mp4 represent produced results (see paper); gifs of images generated are also included
+  Movie.mp4, Movie200.mp4 represent produced music video results (see paper); gifs of images generated from previous all number of epochs trained are also included
 
 ## Technical Notes
-
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Running the Jupyter notebook should install everything necessary to run
 
 ## Reference
 [1] Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros “Image-to-Image Translation with Conditional Adversarial Networks” 26 Nov 2018
