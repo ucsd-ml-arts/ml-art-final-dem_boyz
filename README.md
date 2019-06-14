@@ -12,6 +12,8 @@ Does music make the video, or is the visual medium not influenced much by a musi
 
 Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
 
+File: Music_Video_Generation_using_Pix_to_Pix.pdf
+
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
@@ -21,8 +23,7 @@ Briefly describe the files that are included with your repository:
 ## Code
 
 Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: Final_Project_188.ipynb
+- Jupyter notebooks: ECE_188_Test_Code.ipynb
 
 ## Results
 
@@ -33,6 +34,7 @@ Documentation of your results in an appropriate format, both links to files and 
   - movie files (uploaded to youtube or vimeo due to github file size limits)
   - audio files
   - ... some other form
+  Movie.mp4, Movie200.mp4 represent produced results (see paper); gifs of images generated are also included
 
 ## Technical Notes
 
@@ -41,8 +43,4 @@ Any implementation details or notes we need to repeat your work.
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
-
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+[1] Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros “Image-to-Image Translation with Conditional Adversarial Networks” 26 Nov 2018
